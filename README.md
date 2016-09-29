@@ -47,3 +47,4 @@ Todo
 * Remove need for list_soundcloud_playlists tool
 * Multiple playlist targets
 * Hotkey?
+* Support for external music sources (microphone listener).
